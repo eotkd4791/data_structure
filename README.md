@@ -1,5 +1,6 @@
 # data_structure
 
+INDEX<br>
 1. Sequential List
 2. Linked List
 3. Stack
